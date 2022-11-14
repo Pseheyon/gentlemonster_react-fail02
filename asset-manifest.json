@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gentlemonster_react/static/css/main.5e8d8552.css",
+    "main.js": "/gentlemonster_react/static/js/main.ffb01e98.js",
+    "static/js/787.02d2677e.chunk.js": "/gentlemonster_react/static/js/787.02d2677e.chunk.js",
+    "index.html": "/gentlemonster_react/index.html",
+    "main.5e8d8552.css.map": "/gentlemonster_react/static/css/main.5e8d8552.css.map",
+    "main.ffb01e98.js.map": "/gentlemonster_react/static/js/main.ffb01e98.js.map",
+    "787.02d2677e.chunk.js.map": "/gentlemonster_react/static/js/787.02d2677e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e8d8552.css",
+    "static/js/main.ffb01e98.js"
+  ]
+}
